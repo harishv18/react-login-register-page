@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export default function HomePage() {
     return (
         <div className="text-center">
-            <h1 className="main-title home-page-title">dfa g dfdick to dick apps</h1>
+            <h1 className="main-title home-page-title">Welcome to Build New World</h1>
             <Link to="/">
                 <button className="primary-button">Log out</button>
             </Link>
